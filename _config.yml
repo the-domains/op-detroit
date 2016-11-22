@@ -22,11 +22,11 @@ navigation:
   - name: awards
     id: c02cc44f-2e3a-4b69-aa57-9a13cc9685c7
     type: content
-  - name: inspiration
-    id: 6daae993-30d4-4805-9232-bb520c177e56
-    type: content
   - name: projects
     id: 85298f0a-1cd5-445b-99ce-7afd1cc6a3bd
+    type: content
+  - name: inspiration
+    id: 6daae993-30d4-4805-9232-bb520c177e56
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39f4f30-8de6-4859-9edf-d3cb3274a754.gif
