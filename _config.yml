@@ -1,4 +1,31 @@
-typography_spectrum: 0.193617
+title: Outside Partnership
+content: []
+github: true
+purpose:
+  - type: contact
+    url: 'tel:313.887.4080'
+    label: Call
+  - type: contact
+    url: 'mailto:info@outsidepartnership.com'
+    label: email
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: >-
+  Landscape architecture committed to revitalizing Detroit and enhancing our
+  quality of life.  We offer design and project management services for
+  government agencies, land conservancies and non-profits. Our strengths include
+  design and management of complex, fast-track projects that require
+  interdisciplinary cooperation and consensus building. 
 color:
   saturation: 0.7595745
   brandStrength: 0.8808511
@@ -10,11 +37,6 @@ color:
     - '#888A73'
     - '#5A5B56'
   lightness: 0.5404255
-github: true
-layout_spectrum: 0.4468085
-author:
-  email: info@outsidepartnership.com
-name: op detroit
 navigation:
   - name: about op
     id: ad70a543-f5f3-497a-b794-913586be8598
@@ -24,30 +46,8 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39f4f30-8de6-4859-9edf-d3cb3274a754.gif
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Outside Partnership
-content: []
-description: >-
-  Landscape architecture committed to revitalizing Detroit and enhancing our
-  quality of life.  We offer design and project management services for
-  government agencies, land conservancies and non-profits. Our strengths include
-  design and management of complex, fast-track projects that require
-  interdisciplinary cooperation and consensus building. 
-purpose:
-  - type: contact
-    url: 'tel:313.887.4080'
-    label: Call
-  - type: contact
-    url: 'mailto:info@outsidepartnership.com'
-    label: email
+author:
+  email: info@outsidepartnership.com
+name: op detroit
+typography_spectrum: 0.193617
+layout_spectrum: 0.3212766
