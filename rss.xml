@@ -4,16 +4,9 @@
         <description><![CDATA[Outside Partnership]]></description>
         <link>http://opdetroit.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Nov 2016 18:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2016 18:15:53 GMT</lastBuildDate>
         <atom:link href="http://opdetroit.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Nov 2016 18:03:27 GMT</pubDate>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae64b72f-0420-4988-a45e-3a378add5df3.jpg">]]></description>
-            <link>http://opdetroit.com/facc8460-e811-446b-8e40-5e2f6e4ddbd3/index.html</link>
-            <guid isPermaLink="false">facc8460-e811-446b-8e40-5e2f6e4ddbd3</guid>
-            <pubDate>Tue, 22 Nov 2016 17:58:53 GMT</pubDate>
-        </item>
+        <pubDate>Tue, 22 Nov 2016 18:15:47 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be8cf60-c787-45fd-a084-d468e5c622ab.jpg">]]></description>
@@ -36,11 +29,25 @@
             <pubDate>Tue, 22 Nov 2016 18:02:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae64b72f-0420-4988-a45e-3a378add5df3.jpg">]]></description>
+            <link>http://opdetroit.com/facc8460-e811-446b-8e40-5e2f6e4ddbd3/index.html</link>
+            <guid isPermaLink="false">facc8460-e811-446b-8e40-5e2f6e4ddbd3</guid>
+            <pubDate>Tue, 22 Nov 2016 18:04:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Biography]]></title>
             <description><![CDATA[<article><h1>Biography</h1><p>David Tobar has 20+ years of comprehensive experience involving design and planning for public infrastructure, urban parks, residential communities and resort developments. He thrives on the face-to-face collaboration with stakeholders required to develop successful implementation and construction strategies.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a0feadb-17e0-4499-8a06-ce748482dfca.jpg"></article>]]></description>
             <link>http://opdetroit.com/biography/index.html</link>
             <guid isPermaLink="false">ad70a543-f5f3-497a-b794-913586be8598</guid>
             <pubDate>Tue, 22 Nov 2016 14:24:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instagram for Business]]></title>
+            <description><![CDATA[<article><h1>Instagram for Business</h1><p>Social media is an incredibly powerful tool - and Instagram is one of the most powerful, so why not use it to its full advantage? With well over 400 million users worldwide, there is an incredibly large audience just waiting to discover your brand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/274ad43296679c972aa8df4a6d88c8433c0b45e4.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/instagram-for-business/</link>
+            <guid isPermaLink="false">130558ba-1fe9-43cb-8c8e-64ceca63e736</guid>
+            <pubDate>Tue, 22 Nov 2016 18:15:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
