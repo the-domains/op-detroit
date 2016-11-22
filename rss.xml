@@ -4,9 +4,16 @@
         <description><![CDATA[Outside Partnership]]></description>
         <link>https://thegrid.ai/op-detroit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Nov 2016 14:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2016 17:49:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/op-detroit/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Nov 2016 14:55:08 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2016 17:49:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae64b72f-0420-4988-a45e-3a378add5df3.jpg">]]></description>
+            <link>https://thegrid.ai/op-detroit/facc8460-e811-446b-8e40-5e2f6e4ddbd3/index.html</link>
+            <guid isPermaLink="false">facc8460-e811-446b-8e40-5e2f6e4ddbd3</guid>
+            <pubDate>Tue, 22 Nov 2016 17:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[inspiration]]></title>
             <description><![CDATA[<article><h1>inspiration</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea165cc6-bc45-45fb-a719-4e50bccad793.jpg"></article>]]></description>
@@ -27,13 +34,6 @@
             <link>https://thegrid.ai/op-detroit/8f3f3f52-8a77-4a20-8b36-bd68d792ad04/index.html</link>
             <guid isPermaLink="false">8f3f3f52-8a77-4a20-8b36-bd68d792ad04</guid>
             <pubDate>Tue, 22 Nov 2016 03:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae64b72f-0420-4988-a45e-3a378add5df3.jpg">]]></description>
-            <link>https://thegrid.ai/op-detroit/facc8460-e811-446b-8e40-5e2f6e4ddbd3/index.html</link>
-            <guid isPermaLink="false">facc8460-e811-446b-8e40-5e2f6e4ddbd3</guid>
-            <pubDate>Tue, 22 Nov 2016 03:45:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
